@@ -336,27 +336,6 @@ const projects = [
     image: timeclock,
     source_code_link: "https://github.com/",
   },
-  {
-    name: "Panel Management System",
-    description:
-      "Panel Management is a software solution designed to streamline interview scheduling by managing panel member availability and candidate coordination. It features five modules: User, Master, Candidate, Panel, and Interview Management, ensuring an organized workflow. Built with Express, React, Node.js, and MongoDB, it offers a seamless and efficient user experience.",
-    tags: [
-      {
-        name: "Node JS",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "React JS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Mongo DB",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: panelmanagement,
-    source_code_link: "https://github.com/",
-  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
